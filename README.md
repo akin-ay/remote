@@ -11,7 +11,7 @@ la liste des connexions aux depots ainsi que leur URL.<br>
     **Exemple** : ``git remote -v ``<br>
             >>>origin  https://github.com/FifthYonko/remote.git (push)<br>
 
-**Cette commande possede plusieurs arguments de commande comme par exemple : add, rename, remove.**
+**Cette commande possede plusieurs arguments de commande comme par exemple : add, rename, remove.**<br>
 La commande git remote add + nom + URL permet de  creer une nouvelle connexion a depot distant. Apres la creation de la nouvelle connexion, le nom sera le raccourci de l'URL.<br>
     **Exemple** :  `` git remote add origin https://github.com/akin-ay/remote.git``<br>
             >>> Pas de reponse si tout se passe bien
