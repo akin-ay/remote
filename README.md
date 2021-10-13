@@ -1,4 +1,3 @@
-# Remote
 # Explication de la commande Remote 
 
 *la commande git remote permet a l'utilisateur  de creer , voir ou effacer des connexions a un depot distant.
