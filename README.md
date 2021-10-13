@@ -15,5 +15,12 @@ Cette commande possede plusieurs arguments de commande comme par exemple : add, 
 La commande git remote add + nom + URL permet de  creer une nouvelle connexion a depot distant. Apres la creation de la nouvelle connexion, le nom sera le raccourci de l'URL.<br>
     Exemple :   git remote add origin https://github.com/akin-ay/remote.git<br>
             >>> Pas de reponse si tout se passe bien
-             
-
+             <br>
+En utilisant l'argument rename, la commande git remote permet de modifier le nom de la connexion.<br>
+Cette commande s'utilise de la facon suivante : git remote rename + ancien_nom + nouveau_nom <br>
+    Exemple : git remote rename origin master <br>
+            >>> Pas de reponse si tout se passe bien <br>
+La commande git remote remove permet d'effacer une connexion a un depot distant. <br>
+Cette commande s'utilise de la facon suivante : git remote remove + nom<br>
+    Exemple : git remote remove origin  <br>
+            >>> Pas de reponse si tout se passe bien <br>
