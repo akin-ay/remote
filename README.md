@@ -22,3 +22,4 @@ La commande git remote remove permet d'effacer une connexion a un depot distant.
 Cette commande s'utilise de la facon suivante : git remote remove + nom<br>
     **Exemple** : ``git remote remove origin `` <br>
             >> Pas de reponse si tout se passe bien <br>
+[Accueil](https://failyriece.github.io/DWWM19/)
